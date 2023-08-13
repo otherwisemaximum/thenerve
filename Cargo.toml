@@ -1,8 +1,15 @@
 [package]
 name = "thenerve"
 version = "0.1.0"
+authors = ["Varun <contact@vtewari.com>"]
 edition = "2021"
+license = "MIT"
 
-# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+readme = "README.md"
+description = "database schema diff-er"
+repository = "https://github.com/otherwisemaximum/thenerve"
+
+keywords = ["database", "migration", "cli"]
+categories = ["cli"]
 
 [dependencies]
